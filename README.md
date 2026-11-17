@@ -14,8 +14,7 @@
 
 ---
 
-I build software end to end, from PostgreSQL schemas and transactional data pipelines to Django services on AWS, and I research how retrieval-augmented generation can give complete answers. Abu Dhabi → Chennai → New York.
-
+I build software end to end, from PostgreSQL schemas and transactional data pipelines to Django services on AWS, and I research how retrieval-augmented generation can give complete answers. 
 ### 🔭 Right now
 
 - 🔍 **Researching** coverage-aware RAG with **Prof. Torsten Suel** at NYU Tandon ([arXiv preprint](https://arxiv.org/abs/2610.40314))
