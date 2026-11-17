@@ -1,11 +1,85 @@
-### Hi, I'm Aleena 👋
+<div align="center">
 
-I'm a Computer Science M.S. student at **NYU Tandon** (graduating **May 2027**) and a software engineer who builds data-intensive systems. I'm looking for **full-time software development engineering roles** starting in 2027.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Software+and+ML+engineer;Building+data-intensive+systems;Researching+coverage-aware+RAG+at+NYU" alt="Software and ML engineer · Building data-intensive systems · Researching coverage-aware RAG at NYU" />
 
-- 🔍 **Research:** coverage-aware retrieval-augmented generation (RAG) with Prof. Torsten Suel. Our method raised α-nDCG@10 on TREC RAG 2024 from 0.625 to 0.702 ([arXiv preprint](https://arxiv.org/abs/2610.40314)).
-- 🗄️ **Databases:** former Database Systems teaching assistant; designed a 17-table PostgreSQL schema with row-level security for [Snickr](https://github.com/shaahid-ahmed/snickr), a real-time messaging app.
-- 📄 **Publications:** [IEEE Access (2025)](https://doi.org/10.1109/ACCESS.2025.3588666) · [Connection Science (2025)](https://doi.org/10.1080/09540091.2025.2533867)
+### Hi, I'm Aleena Bosco Kurumthottam 👋
 
-**Tech:** Python · Java · C++ · TypeScript · SQL · PostgreSQL · Django · Next.js · PyTorch · AWS · Docker · Git
+**CS M.S. @ NYU Tandon** · graduating **May 2027** · open to **software and ML engineering roles**
 
-🌐 [aleena-bosco.vercel.app](https://aleena-bosco.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/aleena-bosco/) · ✉️ aleenabosco@gmail.com
+<a href="https://aleena-bosco.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aleena-bosco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://arxiv.org/abs/2610.40314"><img src="https://img.shields.io/badge/arXiv_preprint-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv preprint" /></a>
+<a href="mailto:aleenabosco@gmail.com"><img src="https://img.shields.io/badge/Email-0A1A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+I build software end to end, from PostgreSQL schemas and transactional data pipelines to Django services on AWS, and I research how retrieval-augmented generation can give complete answers. Abu Dhabi → Chennai → New York.
+
+### 🔭 Right now
+
+- 🔍 **Researching** coverage-aware RAG with **Prof. Torsten Suel** at NYU Tandon ([arXiv preprint](https://arxiv.org/abs/2610.40314))
+- 🚕 **Building** [TaxiScope NYC](https://github.com/gcivil-nyu-org/team5-mon-fall26) with a 5-person Scrum team, shipped through code reviews and Travis CI/CD to AWS
+- 📚 **Learning** Hadoop, MapReduce and Spark in my Big Data course
+
+### 🛠️ Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 [Coverage-aware RAG](https://arxiv.org/abs/2610.40314)** · *NYU research*<br/>
+Splits each question into sub-questions and picks documents that cover all of them. Raised α-nDCG@10 on TREC RAG 2024 from **0.625 to 0.702**; a self-critique loop lifted vital-fact coverage from **0.34 to 0.42**.<br/>
+<sub>Python · PyTorch · ModernBERT · LLMs</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🚕 [TaxiScope NYC](https://github.com/gcivil-nyu-org/team5-mon-fall26)** · *team project, live on AWS*<br/>
+Built the transactional, re-runnable import pipeline that turns **11.9M taxi trips** into **1.3M PostgreSQL route statistics**, plus a fare-range REST API, zone comparisons, day plans with calendar export, and **500+ tests**.<br/>
+<sub>Django · PostgreSQL · pandas · AWS Elastic Beanstalk · Travis CI</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 [Snickr](https://github.com/shaahid-ahmed/snickr)** · *team project*<br/>
+A Slack-style real-time messaging app with a **17-table PostgreSQL schema**, row-level security for multi-tenant isolation and GIN-indexed full-text search.<br/>
+<sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**⚖️ Moot Courtroom Multi-Agent Simulation** · *hackathon*<br/>
+AI agents on Google Cloud that argue both sides of a moot-court case, each grounded in case law retrieved from **1,000+ files** through a Qdrant RAG layer.<br/>
+<sub>Python · Google ADK · Qdrant · RAG</sub>
+
+</td>
+</tr>
+</table>
+
+Also here: [FlightSearch](https://github.com/AleenaBoscoK/flight_app) (Flask + PostgreSQL flight search with seat availability) · [Deep Learning notebooks](https://github.com/AleenaBoscoK/Deep_Learning) (AlexNet, VGG, ResNet, Faster R-CNN, LSTM, DCGAN in PyTorch)
+
+### 📄 Publications
+
+- **IEEE Access (2025):** [An Enhanced Time Series Based Solar Power Forecast for Microgrid System](https://doi.org/10.1109/ACCESS.2025.3588666)
+- **Connection Science, Taylor & Francis (2025):** [An Experimental Evaluation of Deep Learning-Based Models for Acne Severity Classification in Humans](https://doi.org/10.1080/09540091.2025.2533867)
+- **arXiv preprint (2026):** [Decompose, Estimate, Select: Coverage-Aware Context Construction for Long-Form RAG](https://arxiv.org/abs/2610.40314)
+
+### 🧰 Tech stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,bash&theme=dark" alt="Languages: Python, Java, C++, TypeScript, JavaScript, Bash" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,django,flask,react,nextjs,tailwind&theme=dark" alt="Data and web: PostgreSQL, MySQL, Supabase, Django, Flask, React, Next.js, Tailwind" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,aws,gcp,docker,git,github,linux,vercel&theme=dark" alt="ML and cloud: PyTorch, scikit-learn, OpenCV, AWS, Google Cloud, Docker, Git, GitHub, Linux, Vercel" />
+</p>
+
+🏅 **AWS Certified Cloud Practitioner**
+
+---
+
+<div align="center">
+<sub>Always happy to talk about retrieval, databases or a good coffee ☕ · <a href="https://aleena-bosco.vercel.app">aleena-bosco.vercel.app</a></sub>
+</div>
