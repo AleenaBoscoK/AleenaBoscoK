@@ -18,8 +18,6 @@ I build software end to end, from PostgreSQL schemas and transactional data pipe
 ### 🔭 Right now
 
 - 🔍 **Researching** coverage-aware RAG with **Prof. Torsten Suel** at NYU Tandon ([arXiv preprint](https://arxiv.org/abs/2610.40314))
-- 🚕 **Building** [TaxiScope NYC](https://github.com/gcivil-nyu-org/team5-mon-fall26) with a 5-person Scrum team, shipped through code reviews and Travis CI/CD to AWS
-- 📚 **Learning** Hadoop, MapReduce and Spark in my Big Data course
 
 ### 📄 Publications
 
