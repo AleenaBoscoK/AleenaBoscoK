@@ -8,7 +8,6 @@
 
 <a href="https://aleena-bosco.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aleena-bosco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://arxiv.org/abs/2610.40314"><img src="https://img.shields.io/badge/arXiv_preprint-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv preprint" /></a>
 <a href="mailto:aleenabosco@gmail.com"><img src="https://img.shields.io/badge/Email-0A1A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
